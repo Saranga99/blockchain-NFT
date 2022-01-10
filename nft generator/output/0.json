@@ -1,5 +1,5 @@
 {
-    "name": "NFT #[1000000]",
+    "name": "NFT #0[Background]",
     "description": "Really awesome description!",
     "image": "0.png",
     "edition": 0,
@@ -27,7 +27,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Aqua"
+            "value": "Green"
         },
         {
             "trait_type": "Pumpkin Color",
@@ -35,7 +35,7 @@
         },
         {
             "trait_type": "Headwear",
-            "value": "Stem"
+            "value": "Cap"
         },
         {
             "trait_type": "Mouth",
@@ -47,7 +47,7 @@
         },
         {
             "trait_type": "Extras",
-            "value": "Gold Earrings"
+            "value": "Silver Earrings"
         },
         {
             "trait_type": "Eyes",
