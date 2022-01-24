@@ -40,7 +40,7 @@ if possibleOutput < imageCount:
 
 # Reset variables
 completedOutput = []
-outputCount = 100
+outputCount = 0
 
 # Check the blockchain being used
 if blockchain.upper() == "SOL":

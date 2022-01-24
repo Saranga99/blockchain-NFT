@@ -1,8 +1,8 @@
 {
-    "name": "NFT #0",
+    "name": "NFT #9",
     "description": "Really awesome description!",
-    "image": "0.png",
-    "edition": 0,
+    "image": "9.png",
+    "edition": 9,
     "seller_fee_basis_points": 250,
     "collection": {
         "name": "Cool collection",
@@ -12,7 +12,7 @@
     "properties": {
         "files": [
             {
-                "uri": "0.png",
+                "uri": "9.png",
                 "type": "image/png"
             }
         ],
@@ -27,7 +27,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Green"
+            "value": "Aqua"
         },
         {
             "trait_type": "Pumpkin Color",
@@ -35,7 +35,7 @@
         },
         {
             "trait_type": "Headwear",
-            "value": "Stem"
+            "value": "Cap"
         },
         {
             "trait_type": "Mouth",
@@ -47,7 +47,7 @@
         },
         {
             "trait_type": "Extras",
-            "value": "Silver Earrings"
+            "value": "Gold Earrings"
         },
         {
             "trait_type": "Eyes",
