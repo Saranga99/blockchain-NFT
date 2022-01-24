@@ -32,11 +32,11 @@
             },
             {
                 "trait_type": "Pumpkin Color",
-                "value": "Orange"
+                "value": "face"
             },
             {
                 "trait_type": "Headwear",
-                "value": "Stem"
+                "value": "Cap"
             },
             {
                 "trait_type": "Mouth",
@@ -48,7 +48,7 @@
             },
             {
                 "trait_type": "Extras",
-                "value": "Silver Earrings"
+                "value": "None"
             },
             {
                 "trait_type": "Eyes",
@@ -89,23 +89,23 @@
             },
             {
                 "trait_type": "Pumpkin Color",
-                "value": "Orange"
+                "value": "face"
             },
             {
                 "trait_type": "Headwear",
-                "value": "Cap"
+                "value": "Stem"
             },
             {
                 "trait_type": "Mouth",
-                "value": "Smile"
+                "value": "Bottom Teeth"
             },
             {
                 "trait_type": "Nose",
-                "value": "Standard"
+                "value": "Square"
             },
             {
                 "trait_type": "Extras",
-                "value": "None"
+                "value": "Gold Earrings"
             },
             {
                 "trait_type": "Eyes",
@@ -146,7 +146,7 @@
             },
             {
                 "trait_type": "Pumpkin Color",
-                "value": "Orange"
+                "value": "face"
             },
             {
                 "trait_type": "Headwear",
@@ -162,7 +162,7 @@
             },
             {
                 "trait_type": "Extras",
-                "value": "Gold Earrings"
+                "value": "Silver Earrings"
             },
             {
                 "trait_type": "Eyes",
@@ -199,15 +199,15 @@
         "attributes": [
             {
                 "trait_type": "Background",
-                "value": "Aqua"
+                "value": "Green"
             },
             {
                 "trait_type": "Pumpkin Color",
-                "value": "Orange"
+                "value": "face"
             },
             {
                 "trait_type": "Headwear",
-                "value": "Stem"
+                "value": "Cap"
             },
             {
                 "trait_type": "Mouth",
@@ -215,11 +215,11 @@
             },
             {
                 "trait_type": "Nose",
-                "value": "Standard"
+                "value": "Square"
             },
             {
                 "trait_type": "Extras",
-                "value": "None"
+                "value": "Gold Earrings"
             },
             {
                 "trait_type": "Eyes",
@@ -256,15 +256,15 @@
         "attributes": [
             {
                 "trait_type": "Background",
-                "value": "Green"
+                "value": "Aqua"
             },
             {
                 "trait_type": "Pumpkin Color",
-                "value": "Orange"
+                "value": "face"
             },
             {
                 "trait_type": "Headwear",
-                "value": "Stem"
+                "value": "Cap"
             },
             {
                 "trait_type": "Mouth",
@@ -272,11 +272,11 @@
             },
             {
                 "trait_type": "Nose",
-                "value": "Standard"
+                "value": "Square"
             },
             {
                 "trait_type": "Extras",
-                "value": "Gold Earrings"
+                "value": "None"
             },
             {
                 "trait_type": "Eyes",
@@ -313,19 +313,19 @@
         "attributes": [
             {
                 "trait_type": "Background",
-                "value": "Green"
+                "value": "Aqua"
             },
             {
                 "trait_type": "Pumpkin Color",
-                "value": "Orange"
+                "value": "face"
             },
             {
                 "trait_type": "Headwear",
-                "value": "Cap"
+                "value": "Stem"
             },
             {
                 "trait_type": "Mouth",
-                "value": "Bottom Teeth"
+                "value": "Smile"
             },
             {
                 "trait_type": "Nose",
@@ -333,11 +333,11 @@
             },
             {
                 "trait_type": "Extras",
-                "value": "None"
+                "value": "Gold Earrings"
             },
             {
                 "trait_type": "Eyes",
-                "value": "Triangle"
+                "value": "Tee"
             }
         ]
     },
@@ -370,15 +370,15 @@
         "attributes": [
             {
                 "trait_type": "Background",
-                "value": "Green"
+                "value": "Aqua"
             },
             {
                 "trait_type": "Pumpkin Color",
-                "value": "Orange"
+                "value": "face"
             },
             {
                 "trait_type": "Headwear",
-                "value": "Stem"
+                "value": "Cap"
             },
             {
                 "trait_type": "Mouth",
@@ -394,7 +394,7 @@
             },
             {
                 "trait_type": "Eyes",
-                "value": "Tee"
+                "value": "Triangle"
             }
         ]
     },
@@ -431,7 +431,7 @@
             },
             {
                 "trait_type": "Pumpkin Color",
-                "value": "Orange"
+                "value": "face"
             },
             {
                 "trait_type": "Headwear",
@@ -447,7 +447,7 @@
             },
             {
                 "trait_type": "Extras",
-                "value": "Gold Earrings"
+                "value": "Silver Earrings"
             },
             {
                 "trait_type": "Eyes",
@@ -484,11 +484,11 @@
         "attributes": [
             {
                 "trait_type": "Background",
-                "value": "Green"
+                "value": "Aqua"
             },
             {
                 "trait_type": "Pumpkin Color",
-                "value": "Orange"
+                "value": "face"
             },
             {
                 "trait_type": "Headwear",
@@ -500,15 +500,15 @@
             },
             {
                 "trait_type": "Nose",
-                "value": "Square"
+                "value": "Standard"
             },
             {
                 "trait_type": "Extras",
-                "value": "None"
+                "value": "Silver Earrings"
             },
             {
                 "trait_type": "Eyes",
-                "value": "Tee"
+                "value": "Triangle"
             }
         ]
     },
@@ -541,11 +541,11 @@
         "attributes": [
             {
                 "trait_type": "Background",
-                "value": "Aqua"
+                "value": "Green"
             },
             {
                 "trait_type": "Pumpkin Color",
-                "value": "Orange"
+                "value": "face"
             },
             {
                 "trait_type": "Headwear",
@@ -553,19 +553,19 @@
             },
             {
                 "trait_type": "Mouth",
-                "value": "Bottom Teeth"
+                "value": "Smile"
             },
             {
                 "trait_type": "Nose",
-                "value": "Square"
+                "value": "Standard"
             },
             {
                 "trait_type": "Extras",
-                "value": "Gold Earrings"
+                "value": "None"
             },
             {
                 "trait_type": "Eyes",
-                "value": "Tee"
+                "value": "Triangle"
             }
         ]
     }

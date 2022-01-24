@@ -27,15 +27,15 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Green"
+            "value": "Aqua"
         },
         {
             "trait_type": "Pumpkin Color",
-            "value": "Orange"
+            "value": "face"
         },
         {
             "trait_type": "Headwear",
-            "value": "Stem"
+            "value": "Cap"
         },
         {
             "trait_type": "Mouth",
@@ -51,7 +51,7 @@
         },
         {
             "trait_type": "Eyes",
-            "value": "Tee"
+            "value": "Triangle"
         }
     ]
 }

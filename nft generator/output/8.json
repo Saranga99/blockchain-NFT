@@ -27,11 +27,11 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Green"
+            "value": "Aqua"
         },
         {
             "trait_type": "Pumpkin Color",
-            "value": "Orange"
+            "value": "face"
         },
         {
             "trait_type": "Headwear",
@@ -43,15 +43,15 @@
         },
         {
             "trait_type": "Nose",
-            "value": "Square"
+            "value": "Standard"
         },
         {
             "trait_type": "Extras",
-            "value": "None"
+            "value": "Silver Earrings"
         },
         {
             "trait_type": "Eyes",
-            "value": "Tee"
+            "value": "Triangle"
         }
     ]
 }
